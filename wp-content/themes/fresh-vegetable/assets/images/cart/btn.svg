@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="30" viewBox="0 0 68 30">
+  <g id="btn" transform="translate(-984 -436)">
+    <g id="btn-2" data-name="btn" transform="translate(0 -580)">
+      <g id="bg" transform="translate(984 1016)" fill="#fff" stroke="#d3d3cf" stroke-width="1">
+        <rect width="30" height="30" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29" height="29" rx="1.5" fill="none"/>
+      </g>
+      <g id="icon">
+        <path id="パス_9131" data-name="パス 9131" d="M12,18H22" transform="translate(982.5 1013)" fill="none" stroke="#888" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="btn-3" data-name="btn" transform="translate(38 -580)">
+      <g id="bg-2" data-name="bg" transform="translate(984 1016)" fill="#eeede5" stroke="#d3d3cf" stroke-width="1">
+        <rect width="30" height="30" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="29" height="29" rx="1.5" fill="none"/>
+      </g>
+      <g id="icon-2" data-name="icon" transform="translate(1 1)">
+        <path id="パス_9130" data-name="パス 9130" d="M18,12V22" transform="translate(980 1013)" fill="none" stroke="#44302e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="パス_9131-2" data-name="パス 9131" d="M12,18H22" transform="translate(981 1012)" fill="none" stroke="#44302e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
